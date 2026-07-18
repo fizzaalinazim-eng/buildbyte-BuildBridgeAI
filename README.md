@@ -77,9 +77,9 @@ BuildBridgeAI
 
 ## 👥 Team Members
 
-- **Ayesha** – Frontend Developer
-- **Alvira** – Backend Developer
-- **Fizza** – Integration & Documentation
+- **Ayesha Adnan** – Frontend Developer
+- **Syeda Alvira Hasan** – Backend Developer
+- **Fizza Nazim** – Integration & Documentation
 
 ---
 
